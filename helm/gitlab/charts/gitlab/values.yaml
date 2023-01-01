@@ -41,5 +41,5 @@ global:
       - ci
 
 gitlab-runner:
-  enabled: false
+  enabled: true
 
